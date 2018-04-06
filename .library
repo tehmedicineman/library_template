@@ -1,0 +1,5 @@
+module.exports = {
+	"folder_name": "dist",
+	"file_name": "stupid_simple_tables",
+	"library_name": "sst",
+};
